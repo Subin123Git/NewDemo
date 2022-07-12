@@ -1,2 +1,4 @@
 This is my 7th file
 making changes in the feature branch also
+making changes in the master branch
+
