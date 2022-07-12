@@ -1,1 +1,2 @@
 This is my 7th file
+making changes in the master branch
